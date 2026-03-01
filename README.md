@@ -168,19 +168,20 @@ The museum has no plans to change number of buttons on kiosk but I desgined it s
 
 ### Project Structure
 museum-visitor-etl-pipeline/
-├── etl.py                   # Main ETL script
-├── validations.py           # Validation functions
-├── database.py              # Database operations
-├── schema.sql               # Database schema
-├── test_etl.py              # Unit tests
-├── reset_db.sh              # Database reset script
-├── requirements.txt
-├── .env                     # Environment variables (not committed)
-├── README.md
-└── terraform/
-    ├── main.tf              # Infrastructure config
-    └── terraform.tfvars     # Variables (not committed)
-    
+```
+* etl.py                   # Main ETL script
+* validations.py           # Validation functions
+* database.py              # Database operations
+* schema.sql               # Database schema
+* test_etl.py              # Unit tests
+* reset_db.sh              # Database reset script
+* requirements.txt
+* .env                     # Environment variables (not committed)
+* README.md
+* terraform/
+    * main.tf              # Infrastructure config
+    * terraform.tfvars     # Variables (not committed)
+```
 ### Error Handling
 Validation errors: Skip message, log details, continue processing
 Database errors: Stop pipeline (fail-fast to prevent data loss)
