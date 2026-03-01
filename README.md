@@ -163,7 +163,8 @@ Rules:
   * site: [0-5]
   * val: [-1, 4]
   * type: Only when val=-1 (0=assistance, 1=emergency)
-  * Button Mapping: <img width="808" height="401" alt="image" src="https://github.com/user-attachments/assets/743fd9c4-9640-4fd0-976f-4e7345dd95cb" />
+  * Button Mapping:
+      <img width="808" height="401" alt="image" src="https://github.com/user-attachments/assets/743fd9c4-9640-4fd0-976f-4e7345dd95cb" />
 The museum has no plans to change number of buttons on kiosk but I desgined it so that they have the option to do so easily in the future.
 
 ### Project Structure
