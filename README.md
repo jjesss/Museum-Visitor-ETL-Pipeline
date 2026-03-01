@@ -59,55 +59,64 @@ DB_PASSWORD=your-db-password
 ⚠️ Never commit .env to version control
 
 ### 3. Setup Database Schema
-psql -h <RDS_ENDPOINT> -U postgres -d museum -f schema.sql
-Running Locally
-python3 etl.py
-Monitor logs:
 
-tail -f consumer_success.log  # Successful processing
-tail -f consumer_error.log    # Errors and validation failures
-AWS Deployment
-Deploy Infrastructure
-cd terraform
-terraform init
-terraform apply
+```psql -h <RDS_ENDPOINT> -U postgres -d museum -f schema.sql```
+Running Locally
+```python3 etl.py```
+Monitor logs:
+```
+  tail -f consumer_success.log  # Successful processing
+  tail -f consumer_error.log    # Errors and validation failures
+```
+
+## AWS Deployment
+
+**Deploy Infrastructure**
+```
+  cd terraform
+  terraform init
+  terraform apply
+```
 Creates: EC2 instance, RDS database, security groups, SSH key pair
 
-Deploy ETL to EC2
-# Get EC2 IP
-terraform output ec2_public_ip
+**Deploy ETL to EC2**
+* Get EC2 IP
+```terraform output ec2_public_ip```
 
-# Upload code
-scp -i c22-jess-etl-key.pem etl.py validations.py database.py ec2-user@<EC2_IP>:~
+* Upload code
+```scp -i c22-jess-etl-key.pem etl.py validations.py database.py ec2-user@<EC2_IP>:~```
 
-# SSH into EC2
-ssh -i c22-jess-etl-key.pem ec2-user@<EC2_IP>
+* SSH into EC2
+```ssh -i c22-jess-etl-key.pem ec2-user@<EC2_IP>```
 
-# Create .env on EC2
-nano .env  # Paste environment variables
+* Create .env on EC2
+```nano .env  # Paste environment variables```
 
-# Run in background
-nohup python3 etl.py > etl.log 2>&1 &
+* Run in background
+```nohup python3 etl.py > etl.log 2>&1 &```
 
-# Verify running
-ps aux | grep etl.py
-Testing
-python3 -m pytest test_etl.py -v
-Database Management
-Reset Database
+* Verify running
+```ps aux | grep etl.py```
+* Testing
+```
+  python3 -m pytest test_etl.py -v
+```
+
+### Database Management
+
+* Reset Database
 Clears visitor_interactions while preserving reference tables:
-
-./reset_db.sh
-Access Database
+```./reset_db.sh```
+* Access Database
 ```
 psql -h <RDS_ENDPOINT> -U postgres -d museum
 ```
-
-Useful queries:
+* Useful queries:
 ```
 SELECT COUNT(*) FROM visitor_interactions;
 SELECT * FROM visitor_interactions ORDER BY at DESC LIMIT 10;
 ```
+
 ## Tableau Dashboard
 ### Connect to Database
 Tableau Desktop → Connect → PostgreSQL
