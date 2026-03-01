@@ -30,7 +30,7 @@ Real-time ETL pipeline that processes visitor engagement data from museum exhibi
 - **Visualizes** engagement metrics via Tableau dashboards
 - **Deploys** to AWS with infrastructure as code
 
-Built for a pilot study tracking visitor button presses (ratings, assistance, emergency) across 6 exhibition sites.
+Built for tracking visitor button presses (ratings, assistance, emergency) across 6 exhibition sites. Two main stakeholders: exhibitions manager and Head of Security & Visitor Safety.
 
 ## Architecture
 Kafka → Python ETL (EC2) → PostgreSQL (RDS) → Tableau
