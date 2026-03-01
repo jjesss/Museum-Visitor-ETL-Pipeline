@@ -5,8 +5,8 @@ Real-time ETL pipeline that processes visitor engagement data from museum exhibi
 **Tech Stack:** Python | Kafka | PostgreSQL | AWS (EC2, RDS) | Terraform | Tableau
 
 
-# There were 2 stages to this project:
-## First:
+## There were 2 stages to this project:
+### First:
 
 **Focused on understanding the data fully and designing an appropriate storage solution for it using a static sample of data from kiosks**
 * An extract Python script that connects to S3 and downloads files relevant to the project
@@ -14,7 +14,7 @@ Real-time ETL pipeline that processes visitor engagement data from museum exhibi
 * A pipeline script that downloads kiosk data from S3 and uploads it to the database
 * An analysis notebook, that connects to the database and explores the data it contains
 * A short presentation that summarises your work findings, approach and trade-offs through the project
-## Second: 
+### Second: 
 
 **Putting the whole ETL pipeline using a live data stream in real time.**
 * An ETL pipeline that connects to the Kafka cluster, consumes messages from the appropriate topic, cleans them, and inserts them into the database, hosted on the cloud
