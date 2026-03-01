@@ -1,0 +1,893 @@
+2026-02-24 17:18:23,271 - INFO - Subscribed to topic lmnh
+2026-02-24 17:18:23,842 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:18:22.968819+00:00", "site": "4", "val": 0}
+2026-02-24 17:18:29,429 - INFO - Consumer interrupted by user
+2026-02-24 17:18:29,430 - INFO - Consumer shutting down
+2026-02-24 17:19:52,317 - INFO - Subscribed to topic lmnh
+2026-02-24 17:19:52,881 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:18:34.970117+00:00", "site": "9", "val": 0}
+2026-02-24 17:19:52,882 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:18:49.971291+00:00", "site": "4", "val": 0}
+2026-02-24 17:19:52,882 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:19:02.972088+00:00", "site": "4", "val": 0}
+2026-02-24 17:19:52,882 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:19:23.973945+00:00", "site": "2", "val": 0}
+2026-02-24 17:19:52,882 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:19:43.975536+00:00", "site": "4", "val": "INF"}
+2026-02-24 17:19:58,211 - INFO - Consumer interrupted by user
+2026-02-24 17:19:58,212 - INFO - Consumer shutting down
+2026-02-24 17:22:20 - INFO - === Subscribed to topic lmnh
+2026-02-24 17:22:20 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:19:58.976599+00:00", "site": "11", "val": 2}
+2026-02-24 17:22:20 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:20:12.977419+00:00", "site": "4"}
+2026-02-24 17:22:20 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:20:31.979301+00:00", "site": "4", "val": 0}
+2026-02-24 17:22:20 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:20:51.980620+00:00", "site": "1", "val": 8}
+2026-02-24 17:22:20 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:20:52.980888+00:00", "site": "3", "val": 0}
+2026-02-24 17:22:20 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:21:14.982478+00:00", "site": "4", "val": 0}
+2026-02-24 17:22:20 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:21:17.982745+00:00", "site": "3", "val": 0}
+2026-02-24 17:22:20 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:21:25.983296+00:00", "site": "6", "val": 2}
+2026-02-24 17:22:20 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:21:33.983840+00:00", "site": "12", "val": 2}
+2026-02-24 17:22:20 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:21:37.984122+00:00", "site": "4", "val": 0}
+2026-02-24 17:22:20 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:21:42.984406+00:00", "val": 1}
+2026-02-24 17:22:20 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:21:43.984673+00:00", "site": "4"}
+2026-02-24 17:22:20 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:22:07.986492+00:00", "site": "5"}
+2026-02-24 17:22:21 - INFO - Consumer interrupted by user
+2026-02-24 17:22:21 - INFO - === Consumer shutting down
+2026-02-24 17:26:45 - INFO - === Subscribed to topic lmnh
+2026-02-24 17:26:45 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:22:35.988049+00:00", "site": "10", "val": 2}
+2026-02-24 17:26:45 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 4}
+2026-02-24 17:26:45 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:24:57.999811+00:00", "site": "11", "val": 2}
+2026-02-24 17:26:45 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 3}
+2026-02-24 17:26:45 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-24 17:26:45 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:25:30.002391+00:00", "site": "1"}
+2026-02-24 17:26:45 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:25:31.002639+00:00", "site": "9", "val": 2}
+2026-02-24 17:26:45 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:26:04.005193+00:00", "val": 4}
+2026-02-24 17:26:47 - INFO - Consumer interrupted by user
+2026-02-24 17:26:47 - INFO - === Consumer shutting down
+2026-02-25 17:41:15 - INFO - === Starting Kafka consumer ===
+2026-02-25 21:31:08 - INFO - === Starting Kafka consumer ===
+2026-02-25 21:46:15 - INFO - === Starting Kafka consumer ===
+2026-02-25 21:46:15 - INFO - === Connected to database successfully
+2026-02-25 21:46:15 - INFO - === Subscribed to topic lmnh
+2026-02-25 21:46:16 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:26:50.008170+00:00", "val": 3}
+2026-02-25 21:46:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-24T17:26:53.008463+00:00", "site": "0", "val": -1, "type": 2}
+2026-02-25 21:46:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-24T17:26:56.008729+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-25 21:46:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-24T17:27:20.010528+00:00", "site": "1", "val": -1, "type": "INF"}
+2026-02-25 21:46:16 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:27:39.012513+00:00", "site": "0", "val": "INF"}
+2026-02-25 21:46:16 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:27:44.012996+00:00", "site": "1", "val": 6}
+2026-02-25 21:46:17 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-24T17:28:37.017702+00:00", "site": "ERR", "val": 2}
+2026-02-25 21:46:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 2}
+2026-02-25 21:46:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:29:06.020026+00:00", "val": 0}
+2026-02-25 21:46:18 - INFO - Consumer interrupted by user
+2026-02-25 21:46:18 - INFO - === Consumer shutting down
+2026-02-25 23:47:08 - INFO - === Starting Kafka consumer ===
+2026-02-25 23:57:00 - INFO - === Starting Kafka consumer ===
+2026-02-25 23:59:07 - INFO - === Starting Kafka consumer ===
+2026-02-25 23:59:12 - ERROR - Failed to connect to database: connection to server at "c22-jess-postgres-db.c57vkec7dkkx.eu-west-2.rds.amazonaws.com" (13.43.15.117), port 5432 failed: timeout expired
+
+2026-02-26 11:30:53 - INFO - === Starting Kafka consumer ===
+2026-02-26 11:30:53 - INFO - === Connected to database successfully
+2026-02-26 11:30:53 - INFO - === Subscribed to topic lmnh
+2026-02-26 11:30:53 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:30:05.024568+00:00", "site": "3", "val": "INF"}
+2026-02-26 11:30:54 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:30:12.025308+00:00", "val": 4}
+2026-02-26 11:30:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:30:32.027028+00:00", "site": "0", "val": -2}
+2026-02-26 11:30:54 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:30:42.027760+00:00", "site": "5"}
+2026-02-26 11:30:54 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:31:07.029477+00:00", "site": "10", "val": -1, "type": 0}
+2026-02-26 11:30:55 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:31:54.032971+00:00", "site": "1", "type": 0}
+2026-02-26 11:30:55 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-24T17:32:37.035770+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:30:55 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:32:52.036968+00:00", "site": "5", "val": -3}
+2026-02-26 11:30:55 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-24T17:33:48.040761+00:00", "site": "0", "val": -1, "type": 2}
+2026-02-26 11:30:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:34:02.041513+00:00", "val": 0}
+2026-02-26 11:30:56 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-24T17:34:10.042020+00:00", "site": "3", "val": -1, "type": "INF"}
+2026-02-26 11:30:56 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-24T17:34:32.043364+00:00", "site": "3", "val": -1, "type": 3}
+2026-02-26 11:30:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:34:57.045497+00:00", "site": "2"}
+2026-02-26 11:30:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:35:10.046564+00:00", "site": "2", "val": 9}
+2026-02-26 11:30:56 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-24T17:35:22.047384+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:30:56 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-24T17:35:34.048183+00:00", "site": "1", "val": -1, "type": 2}
+2026-02-26 11:30:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 1}
+2026-02-26 11:30:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:36:31.052476+00:00", "val": 0}
+2026-02-26 11:30:57 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:36:57.054885+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:30:57 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:37:01.055158+00:00", "site": "3", "val": 6}
+2026-02-26 11:30:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:37:05.055424+00:00", "site": "1"}
+2026-02-26 11:30:57 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-24T17:37:29.057334+00:00", "site": "5", "val": -1, "type": null}
+2026-02-26 11:30:57 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-24T17:38:20.060627+00:00", "site": "4", "val": -1, "type": 4}
+2026-02-26 11:30:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 4}
+2026-02-26 11:30:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:39:15.065408+00:00", "val": 3}
+2026-02-26 11:30:58 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:39:21.065670+00:00", "site": "0", "val": "ERR"}
+2026-02-26 11:30:58 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-24T17:39:30.067010+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:30:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:39:48.068360+00:00", "site": "5"}
+2026-02-26 11:30:58 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-24T17:39:49.068612+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:30:58 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:40:10.069885+00:00", "site": "1", "val": null}
+2026-02-26 11:30:58 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:40:28.070905+00:00", "site": "9", "val": 3}
+2026-02-26 11:30:59 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:40:35.071441+00:00", "site": "0", "val": 9}
+2026-02-26 11:30:59 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:41:26.074443+00:00", "site": "4", "val": 6}
+2026-02-26 11:30:59 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:41:37.075521+00:00", "site": "1", "val": 6}
+2026-02-26 11:30:59 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:41:48.076316+00:00", "val": 3}
+2026-02-26 11:30:59 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-24T17:42:25.078799+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:30:59 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:42:43.079912+00:00", "val": 0}
+2026-02-26 11:31:00 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-24T17:42:57.080998+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:31:00 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T17:43:10.082034+00:00", "site": "4", "val": null}
+2026-02-26 11:31:00 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 1}
+2026-02-26 11:31:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-24T17:44:59.089880+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-26 11:31:01 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:45:02.090407+00:00", "site": "2", "val": "INF"}
+2026-02-26 11:31:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-24T17:45:09.091195+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:31:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-24T17:45:15.091463+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:31:01 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-24T17:45:30.093298+00:00", "site": "None", "val": 1}
+2026-02-26 11:31:01 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:46:03.096151+00:00", "site": "1", "val": -2}
+2026-02-26 11:31:02 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:46:33.098519+00:00", "site": "10", "val": 2}
+2026-02-26 11:31:02 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:46:54.099847+00:00", "site": "12", "val": 0}
+2026-02-26 11:31:02 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-24T17:47:47.103783+00:00", "site": "ERR", "val": 3}
+2026-02-26 11:31:02 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-24T17:48:05.104984+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:31:02 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-24T17:48:19.106215+00:00", "site": "None", "val": 2}
+2026-02-26 11:31:02 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-24T17:48:22.106509+00:00", "site": "2", "val": -1, "type": 2}
+2026-02-26 11:31:03 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:48:30.106975+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:31:03 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:48:46.107958+00:00", "site": "1"}
+2026-02-26 11:31:03 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:49:18.109623+00:00", "val": 0}
+2026-02-26 11:31:03 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-24T17:50:03.112949+00:00", "site": "2", "val": -1, "type": 3}
+2026-02-26 11:31:03 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-24T17:50:18.114272+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:31:04 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:50:51.116776+00:00", "site": "10", "val": 1}
+2026-02-26 11:31:04 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:50:57.117531+00:00", "site": "2"}
+2026-02-26 11:31:04 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 1}
+2026-02-26 11:31:04 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-24T17:51:07.118300+00:00", "site": "5", "val": -1, "type": null}
+2026-02-26 11:31:04 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:51:15.119122+00:00", "site": "0"}
+2026-02-26 11:31:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:51:22.119645+00:00", "site": "3", "val": 5}
+2026-02-26 11:31:04 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-24T17:51:32.120383+00:00", "site": "5", "val": -1, "type": "ERR"}
+2026-02-26 11:31:04 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-24T17:51:36.120629+00:00", "site": "ERR", "val": 1}
+2026-02-26 11:31:04 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-24T17:51:47.121425+00:00", "site": "0", "val": -1, "type": null}
+2026-02-26 11:31:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:52:15.123323+00:00", "site": "1", "val": 6}
+2026-02-26 11:31:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:52:21.123828+00:00", "site": "5", "val": -3}
+2026-02-26 11:31:04 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 1}
+2026-02-26 11:31:04 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:52:53.126390+00:00", "site": "4"}
+2026-02-26 11:31:04 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-24T17:52:57.126630+00:00", "site": "0", "val": -1, "type": 4}
+2026-02-26 11:31:05 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:53:29.128787+00:00", "site": "5", "val": -2}
+2026-02-26 11:31:05 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:53:56.130667+00:00", "site": "8", "val": 0}
+2026-02-26 11:31:05 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-24T17:53:58.130958+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:31:05 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:54:33.132813+00:00", "site": "1", "val": 5}
+2026-02-26 11:31:05 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-24T17:54:52.134137+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-26 11:31:05 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:54:58.134974+00:00", "site": "4"}
+2026-02-26 11:31:05 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:54:59.135276+00:00", "site": "12", "val": 1}
+2026-02-26 11:31:05 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:55:16.136638+00:00", "site": "5", "val": -2}
+2026-02-26 11:31:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:55:41.138259+00:00", "site": "5", "val": 6}
+2026-02-26 11:31:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:55:52.138805+00:00", "site": "3", "val": 6}
+2026-02-26 11:31:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:56:03.140159+00:00", "site": "1", "val": 6}
+2026-02-26 11:31:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:56:23.141234+00:00", "site": "2", "val": 8}
+2026-02-26 11:31:06 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-24T17:56:41.142297+00:00", "site": "5", "val": -1, "type": 2}
+2026-02-26 11:31:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:57:19.144992+00:00", "site": "3", "val": 9}
+2026-02-26 11:31:06 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:57:28.145786+00:00", "site": "1"}
+2026-02-26 11:31:06 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:57:31.146063+00:00", "site": "10", "val": 0}
+2026-02-26 11:31:06 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:57:35.146618+00:00", "site": "9", "val": 0}
+2026-02-26 11:31:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T17:57:40.147194+00:00", "site": "1", "val": "ERR"}
+2026-02-26 11:31:06 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-24T17:57:44.147467+00:00", "site": "8", "val": 4}
+2026-02-26 11:31:07 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:59:42.155056+00:00", "val": 2}
+2026-02-26 11:31:07 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-24T17:59:46.155346+00:00", "site": "None", "val": 3}
+2026-02-26 11:31:07 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-24T17:59:54.156166+00:00", "site": "2", "val": -1, "type": 4}
+2026-02-26 11:31:07 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T17:59:58.156433+00:00", "val": 3}
+2026-02-26 11:31:08 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-24T19:08:08.158341+00:00", "val": 0}
+2026-02-26 11:31:08 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-24T20:28:02.160310+00:00", "site": "2", "val": null}
+2026-02-26 11:31:08 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-24T22:39:02.163327+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:31:08 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-24T23:28:07.164408+00:00", "site": "1", "val": "INF"}
+2026-02-26 11:31:09 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T02:09:58.168244+00:00", "site": "4", "val": "INF"}
+2026-02-26 11:31:09 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T02:22:42.168522+00:00", "site": "4"}
+2026-02-26 11:31:09 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T02:58:35.169339+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:31:09 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T03:44:12.170487+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:31:09 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T03:55:43.170765+00:00", "site": "1", "val": 6, "type": 0}
+2026-02-26 11:31:09 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T04:18:45.171336+00:00", "site": "0", "val": -1, "type": 3}
+2026-02-26 11:31:09 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T07:35:51.175983+00:00", "site": "1", "val": "ERR"}
+2026-02-26 11:31:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:07:08.178993+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:31:10 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:07:17.179805+00:00", "val": 4}
+2026-02-26 11:31:10 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:07:20.180081+00:00", "site": "6", "val": 1}
+2026-02-26 11:31:10 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:07:41.181438+00:00", "site": "11", "val": 1}
+2026-02-26 11:31:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T09:08:35.184703+00:00", "site": "0", "val": -1, "type": "INF"}
+2026-02-26 11:31:11 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:09:02.186563+00:00", "site": "None", "val": 2}
+2026-02-26 11:31:11 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:09:08.186854+00:00", "val": 1}
+2026-02-26 11:31:11 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:09:20.187678+00:00", "site": "8", "val": 2}
+2026-02-26 11:31:11 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:09:38.189025+00:00", "site": "5", "val": 9}
+2026-02-26 11:31:11 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T09:09:43.189566+00:00", "site": "0", "val": null}
+2026-02-26 11:31:11 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:10:07.191157+00:00", "site": "3"}
+2026-02-26 11:31:11 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:10:22.192216+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:31:11 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T09:10:55.195136+00:00", "site": "4", "val": null}
+2026-02-26 11:31:12 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:11:02.195939+00:00", "site": "2"}
+2026-02-26 11:31:12 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:11:04.196203+00:00", "site": "3", "val": 8}
+2026-02-26 11:31:12 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:11:41.199430+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:31:12 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:12:00.200480+00:00", "site": "12", "val": 0}
+2026-02-26 11:31:12 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:12:07.201044+00:00", "site": "2", "val": -1, "type": -1}
+2026-02-26 11:31:12 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:12:34.202911+00:00", "val": 4}
+2026-02-26 11:31:12 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 0}
+2026-02-26 11:31:13 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:13:15.205821+00:00", "site": "0", "val": 5}
+2026-02-26 11:31:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T09:13:33.207425+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:31:13 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:13:41.207955+00:00", "site": "1"}
+2026-02-26 11:31:13 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:14:13.209902+00:00", "site": "4", "val": -3}
+2026-02-26 11:31:14 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:15:39.216309+00:00", "site": "10", "val": 0}
+2026-02-26 11:31:14 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 2}
+2026-02-26 11:31:14 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:16:06.218473+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:31:14 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:16:22.219825+00:00", "site": "1", "val": 5}
+2026-02-26 11:31:14 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:17:04.222746+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-26 11:31:14 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:17:10.223292+00:00", "site": "4", "val": -2}
+2026-02-26 11:31:14 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T09:17:21.224082+00:00", "site": "0", "val": -1, "type": "INF"}
+2026-02-26 11:31:15 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 1}
+2026-02-26 11:31:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:18:28.228590+00:00", "site": "7", "val": 3}
+2026-02-26 11:31:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:18:34.228886+00:00", "site": "8", "val": 0}
+2026-02-26 11:31:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:19:01.231339+00:00", "site": "11", "val": 2}
+2026-02-26 11:31:15 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:19:16.232426+00:00", "site": "2", "val": "INF"}
+2026-02-26 11:31:15 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:19:38.233794+00:00", "site": "3", "val": 7}
+2026-02-26 11:31:16 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:20:06.235667+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:31:16 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:20:27.237792+00:00", "val": 2}
+2026-02-26 11:31:16 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:20:48.239646+00:00", "val": -1, "type": 0}
+2026-02-26 11:31:16 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:20:54.239918+00:00", "site": "None", "val": 1}
+2026-02-26 11:31:16 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:20:55.240207+00:00", "site": "4", "val": 7}
+2026-02-26 11:31:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:21:12.241285+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:31:16 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:21:32.242616+00:00", "site": "1", "val": 6}
+2026-02-26 11:31:16 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:21:43.243701+00:00", "site": "5"}
+2026-02-26 11:31:16 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:21:50.244240+00:00", "site": "11", "val": 2}
+2026-02-26 11:31:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 2}
+2026-02-26 11:31:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 1}
+2026-02-26 11:31:18 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 3}
+2026-02-26 11:31:18 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:24:33.256787+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:31:18 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T09:24:47.258167+00:00", "site": "0", "val": -1, "type": 3}
+2026-02-26 11:31:18 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:25:17.260046+00:00", "site": "3", "val": "ERR"}
+2026-02-26 11:31:18 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:25:24.260573+00:00", "site": "4", "val": -2}
+2026-02-26 11:31:18 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T09:25:39.261676+00:00", "site": "5", "val": -1, "type": null}
+2026-02-26 11:31:19 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:25:50.262499+00:00", "site": "2", "val": -1, "type": 4}
+2026-02-26 11:31:19 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:26:03.263575+00:00", "site": "3", "val": 5}
+2026-02-26 11:31:19 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:26:46.266227+00:00", "site": "2", "val": 5}
+2026-02-26 11:31:19 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:27:03.267583+00:00", "val": 2}
+2026-02-26 11:31:19 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T09:27:29.269697+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:31:20 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:28:08.272952+00:00", "site": "10", "val": 2}
+2026-02-26 11:31:20 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:28:11.273510+00:00", "site": "4"}
+2026-02-26 11:31:20 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:28:21.274042+00:00", "site": "5", "val": 7}
+2026-02-26 11:31:20 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:29:11.277787+00:00", "site": "0", "val": -2}
+2026-02-26 11:31:20 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:29:41.280719+00:00", "site": "0", "val": 8, "type": 0}
+2026-02-26 11:31:21 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:31:21 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T09:29:55.282042+00:00", "site": "4", "val": -1, "type": 3}
+2026-02-26 11:31:21 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T09:30:00.282342+00:00", "site": "5", "val": -1, "type": 2}
+2026-02-26 11:31:21 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:30:25.284508+00:00", "site": "9", "val": 1}
+2026-02-26 11:31:21 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:30:34.285077+00:00", "site": "0", "val": 7}
+2026-02-26 11:31:21 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T09:30:41.285615+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:31:22 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:33:14.298143+00:00", "val": 2}
+2026-02-26 11:31:23 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:34:39.304797+00:00", "site": "7", "val": 2}
+2026-02-26 11:31:23 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:35:02.306430+00:00", "val": -1, "type": 0}
+2026-02-26 11:31:24 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:35:27.308668+00:00", "site": "ERR", "val": -1, "type": 0}
+2026-02-26 11:31:24 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:35:31.309236+00:00", "val": 1}
+2026-02-26 11:31:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:35:34.309764+00:00", "site": "5", "val": -1, "type": -1}
+2026-02-26 11:31:24 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:35:44.310567+00:00", "site": "9", "val": 1}
+2026-02-26 11:31:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:36:02.311667+00:00", "site": "5", "val": -1, "type": -1}
+2026-02-26 11:31:24 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:36:11.312461+00:00", "site": "2", "val": 6}
+2026-02-26 11:31:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:36:18.312996+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:31:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:36:23.313266+00:00", "site": "4", "val": -1, "type": -1}
+2026-02-26 11:31:24 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:36:53.316197+00:00", "site": "2", "val": 7}
+2026-02-26 11:31:24 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:36:59.316462+00:00", "site": "INF", "val": 2}
+2026-02-26 11:31:25 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:38:01.320858+00:00", "site": "3", "val": -2}
+2026-02-26 11:31:25 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:38:06.321407+00:00", "site": "0"}
+2026-02-26 11:31:25 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:38:14.321943+00:00", "site": "2", "val": -2}
+2026-02-26 11:31:25 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T09:38:15.322202+00:00", "site": "3", "val": -1, "type": 3}
+2026-02-26 11:31:25 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:38:20.322472+00:00", "site": "4", "val": -1, "type": -1}
+2026-02-26 11:31:25 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:38:30.323012+00:00", "site": "5"}
+2026-02-26 11:31:25 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:38:56.325427+00:00", "site": "1", "val": "ERR"}
+2026-02-26 11:31:25 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:39:29.327843+00:00", "site": "ERR", "val": 0}
+2026-02-26 11:31:25 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:39:35.328143+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:31:25 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:39:49.328938+00:00", "site": "5", "val": "INF"}
+2026-02-26 11:31:26 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:39:58.329480+00:00", "site": "9", "val": 2}
+2026-02-26 11:31:26 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:40:01.329773+00:00", "site": "3"}
+2026-02-26 11:31:26 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:40:13.330849+00:00", "site": "0", "val": 9}
+2026-02-26 11:31:26 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:41:14.334641+00:00", "site": "3", "val": 7}
+2026-02-26 11:31:26 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:41:22.335695+00:00", "site": "None", "val": -1, "type": 0}
+2026-02-26 11:31:26 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:41:43.337606+00:00", "site": "None", "val": 3}
+2026-02-26 11:31:27 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T09:42:27.340282+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:31:27 - INFO - Consumer interrupted by user
+2026-02-26 11:31:27 - INFO - === Consumer shutting down
+2026-02-26 11:44:56 - INFO - === Starting Kafka consumer ===
+2026-02-26 11:44:56 - INFO - === Connected to database successfully
+2026-02-26 11:44:56 - INFO - === Subscribed to topic lmnh
+2026-02-26 11:44:57 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T09:42:37.341085+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:44:58 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:43:26.345335+00:00", "site": "2", "val": "INF"}
+2026-02-26 11:44:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 2}
+2026-02-26 11:44:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 1}
+2026-02-26 11:44:59 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:44:16.349866+00:00", "val": 0}
+2026-02-26 11:44:59 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T09:44:19.350143+00:00", "site": "1", "val": -1, "type": 3}
+2026-02-26 11:44:59 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:44:28.350692+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-26 11:44:59 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T09:44:49.352049+00:00", "site": "1", "val": -1, "type": "INF"}
+2026-02-26 11:44:59 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:45:00.352847+00:00", "site": "1", "val": 5}
+2026-02-26 11:44:59 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:45:01.353114+00:00", "site": "9", "val": 1}
+2026-02-26 11:44:59 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T09:45:06.353686+00:00", "site": "0", "val": -1, "type": "ERR"}
+2026-02-26 11:44:59 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:45:24.355559+00:00", "val": 2}
+2026-02-26 11:44:59 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:45:32.356124+00:00", "site": "0", "val": "ERR"}
+2026-02-26 11:44:59 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:45:37.356390+00:00", "site": "10", "val": 3}
+2026-02-26 11:44:59 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T09:46:02.358554+00:00", "site": "5", "val": null}
+2026-02-26 11:45:00 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 1}
+2026-02-26 11:45:00 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:46:58.363107+00:00", "site": "0"}
+2026-02-26 11:45:00 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T09:47:03.363626+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:45:00 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T09:47:16.364672+00:00", "site": "3", "val": -1, "type": 2}
+2026-02-26 11:45:00 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:47:18.364939+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-26 11:45:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T09:47:27.365965+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:45:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:47:33.366239+00:00", "site": "12", "val": 4}
+2026-02-26 11:45:01 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:47:51.367331+00:00", "site": "4", "val": 8}
+2026-02-26 11:45:01 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:47:58.367875+00:00", "site": "INF", "val": 0}
+2026-02-26 11:45:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:48:22.369789+00:00", "site": "11", "val": 3}
+2026-02-26 11:45:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:48:31.370614+00:00", "site": "9", "val": 1}
+2026-02-26 11:45:02 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:48:41.371694+00:00", "site": "0"}
+2026-02-26 11:45:02 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:49:23.374785+00:00", "site": "4", "val": -3}
+2026-02-26 11:45:02 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:49:29.375061+00:00", "site": "4", "val": -3}
+2026-02-26 11:45:03 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 2}
+2026-02-26 11:45:03 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:51:01.382534+00:00", "site": "4", "val": 5}
+2026-02-26 11:45:04 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T09:51:33.385915+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:45:05 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T09:52:31.389829+00:00", "site": "2", "val": -1, "type": 3}
+2026-02-26 11:45:05 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T09:53:09.392106+00:00", "site": "1", "val": -1, "type": 2}
+2026-02-26 11:45:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:53:51.395111+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:45:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:54:07.395830+00:00", "site": "3", "val": "INF"}
+2026-02-26 11:45:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:54:29.397620+00:00", "site": "4", "val": 9}
+2026-02-26 11:45:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:54:32.397889+00:00", "site": "3", "val": 6}
+2026-02-26 11:45:06 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:54:51.399577+00:00", "site": "4", "val": -2}
+2026-02-26 11:45:06 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 3}
+2026-02-26 11:45:07 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:55:46.403258+00:00", "site": "6", "val": 2}
+2026-02-26 11:45:07 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T09:55:52.403906+00:00", "site": "1", "val": -1, "type": -1}
+2026-02-26 11:45:07 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:55:57.404581+00:00", "val": 3}
+2026-02-26 11:45:07 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:56:15.406375+00:00", "site": "12", "val": 1}
+2026-02-26 11:45:07 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T09:56:24.406898+00:00", "site": "0", "val": -1, "type": "INF"}
+2026-02-26 11:45:08 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:56:52.409451+00:00", "site": "7", "val": 4}
+2026-02-26 11:45:08 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T09:57:04.410476+00:00", "site": "3"}
+2026-02-26 11:45:08 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:57:08.410715+00:00", "site": "INF", "val": 0}
+2026-02-26 11:45:08 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:57:26.411969+00:00", "site": "1", "val": -3}
+2026-02-26 11:45:08 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:57:43.412937+00:00", "site": "3", "val": 5}
+2026-02-26 11:45:08 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:57:52.413464+00:00", "site": "5", "val": "INF"}
+2026-02-26 11:45:08 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T09:58:29.415459+00:00", "site": "11", "val": 2}
+2026-02-26 11:45:08 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T09:58:39.415951+00:00", "site": "INF", "val": 1}
+2026-02-26 11:45:09 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T09:59:37.419506+00:00", "site": "2", "val": 6, "type": 0}
+2026-02-26 11:45:09 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T09:59:46.420332+00:00", "site": "5", "val": -1, "type": null}
+2026-02-26 11:45:10 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:00:47.425174+00:00", "val": 3}
+2026-02-26 11:45:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T10:00:52.425448+00:00", "site": "0", "val": -1, "type": -1}
+2026-02-26 11:45:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T10:00:54.425727+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:45:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T10:01:08.427068+00:00", "site": "1", "val": -1, "type": 2}
+2026-02-26 11:45:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:01:44.429211+00:00", "site": "5", "val": -1, "type": 3}
+2026-02-26 11:45:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T10:01:55.430508+00:00", "site": "5", "val": -1, "type": -1}
+2026-02-26 11:45:10 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 3}
+2026-02-26 11:45:10 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:02:13.431854+00:00", "site": "12", "val": 0}
+2026-02-26 11:45:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T10:02:21.432406+00:00", "site": "5", "val": -1, "type": 2}
+2026-02-26 11:45:10 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:02:32.433195+00:00", "site": "INF", "val": 3}
+2026-02-26 11:45:11 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:02:47.434264+00:00", "site": "9", "val": 1}
+2026-02-26 11:45:11 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:03:24.437128+00:00", "site": "4"}
+2026-02-26 11:45:11 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:04:17.440325+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:45:12 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:04:42.442225+00:00", "site": "2", "val": -1, "type": null}
+2026-02-26 11:45:12 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:05:00.443576+00:00", "site": "7", "val": 4}
+2026-02-26 11:45:12 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:05:29.445489+00:00", "site": "None", "val": 2}
+2026-02-26 11:45:12 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T10:05:41.446326+00:00", "site": "2", "val": -1, "type": 2}
+2026-02-26 11:45:12 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:06:01.448208+00:00", "site": "12", "val": 0}
+2026-02-26 11:45:12 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 2}
+2026-02-26 11:45:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:06:23.450697+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:45:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T10:06:37.451815+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:45:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T10:06:59.453379+00:00", "site": "5", "val": -1, "type": 2}
+2026-02-26 11:45:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:07:03.453895+00:00", "site": "5", "val": -1, "type": "ERR"}
+2026-02-26 11:45:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:07:28.455485+00:00", "site": "0", "val": -1, "type": "ERR"}
+2026-02-26 11:45:14 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 3}
+2026-02-26 11:45:14 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:08:37.461145+00:00", "site": "10", "val": 3}
+2026-02-26 11:45:14 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:09:14.463471+00:00", "val": 3}
+2026-02-26 11:45:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:09:37.465274+00:00", "site": "6", "val": 3}
+2026-02-26 11:45:15 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:09:44.465765+00:00", "site": "5", "val": "ERR"}
+2026-02-26 11:45:15 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:09:51.466262+00:00", "site": "2", "val": -1, "type": null}
+2026-02-26 11:45:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:10:09.467301+00:00", "site": "9", "val": 0}
+2026-02-26 11:45:15 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T10:10:47.470305+00:00", "site": "1", "val": null}
+2026-02-26 11:45:15 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:10:54.470833+00:00", "site": "5", "val": 7}
+2026-02-26 11:45:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:11:20.472940+00:00", "site": "11", "val": 0}
+2026-02-26 11:45:16 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:12:18.477747+00:00", "site": "10", "val": 2}
+2026-02-26 11:45:16 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:12:24.477986+00:00", "site": "5"}
+2026-02-26 11:45:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T10:12:33.478639+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:45:17 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:13:23.482702+00:00", "site": "1", "val": -1, "type": 3}
+2026-02-26 11:45:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:13:35.483452+00:00", "val": 4}
+2026-02-26 11:45:17 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T10:13:49.484191+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:45:19 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:15:52.493936+00:00", "site": "9", "val": 2}
+2026-02-26 11:45:19 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:16:36.497156+00:00", "site": "2", "val": -1, "type": 3}
+2026-02-26 11:45:20 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:18:16.504515+00:00", "val": 1}
+2026-02-26 11:45:21 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:18:44.506813+00:00", "site": "4", "val": -3}
+2026-02-26 11:45:21 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:19:01.507776+00:00", "site": "4", "val": "INF"}
+2026-02-26 11:45:21 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:19:02.508025+00:00", "val": 1}
+2026-02-26 11:45:21 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:19:18.509301+00:00", "site": "1", "val": -1, "type": null}
+2026-02-26 11:45:21 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:19:21.509558+00:00", "val": 0}
+2026-02-26 11:45:21 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 2}
+2026-02-26 11:45:22 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:20:38.515891+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:45:22 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:20:53.516842+00:00", "site": "2", "val": -2}
+2026-02-26 11:45:22 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:21:09.517845+00:00", "site": "10", "val": 0}
+2026-02-26 11:45:23 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:22:12.522195+00:00", "site": "5", "val": -3}
+2026-02-26 11:45:23 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 0}
+2026-02-26 11:45:23 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:22:53.525459+00:00", "site": "1", "val": 5}
+2026-02-26 11:45:23 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:22:55.525683+00:00", "site": "4"}
+2026-02-26 11:45:23 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:23:05.526442+00:00", "site": "10", "val": 2}
+2026-02-26 11:45:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:24:10.531267+00:00", "site": "4", "val": -1, "type": 3}
+2026-02-26 11:45:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T10:24:31.532487+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:45:24 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T10:24:46.533681+00:00", "site": "3", "val": null}
+2026-02-26 11:45:25 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:25:31.537443+00:00", "site": "6", "val": 2}
+2026-02-26 11:45:25 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:26:11.541005+00:00", "site": "3", "val": 7}
+2026-02-26 11:45:26 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:26:57.544874+00:00", "site": "2", "val": 6}
+2026-02-26 11:45:26 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:26:58.545123+00:00", "site": "3", "val": 7}
+2026-02-26 11:45:26 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:27:11.545833+00:00", "site": "10", "val": 4}
+2026-02-26 11:45:27 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:28:30.552157+00:00", "site": "3", "val": -3}
+2026-02-26 11:45:27 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:28:49.553865+00:00", "val": 2}
+2026-02-26 11:45:27 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:28:56.554636+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:45:27 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:29:05.555336+00:00", "site": "0", "val": -1}
+2026-02-26 11:45:28 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:29:44.557740+00:00", "site": "0", "val": 9}
+2026-02-26 11:45:28 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:30:16.559490+00:00", "site": "4", "val": 9}
+2026-02-26 11:45:28 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:30:22.559941+00:00", "site": "1", "val": 7}
+2026-02-26 11:45:28 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:30:47.561841+00:00", "site": "9", "val": -1, "type": 0}
+2026-02-26 11:45:28 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:30:50.562142+00:00", "site": "7", "val": 4}
+2026-02-26 11:45:29 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:31:32.565186+00:00", "site": "1", "val": -1}
+2026-02-26 11:45:29 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T10:32:03.566905+00:00", "site": "4", "val": -1, "type": 4}
+2026-02-26 11:45:29 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:32:30.569354+00:00", "site": "5", "val": "ERR"}
+2026-02-26 11:45:29 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:32:45.570156+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:45:30 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 1}
+2026-02-26 11:45:30 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:34:16.576472+00:00", "site": "5", "val": 7}
+2026-02-26 11:45:30 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:34:32.577514+00:00", "site": "4"}
+2026-02-26 11:45:30 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:34:41.578021+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:45:30 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:34:54.579168+00:00", "site": "9", "val": 1}
+2026-02-26 11:45:31 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:35:40.582456+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:45:31 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:35:42.582704+00:00", "site": "0"}
+2026-02-26 11:45:31 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T10:35:49.583159+00:00", "site": "3", "val": -1, "type": "INF"}
+2026-02-26 11:45:31 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 1}
+2026-02-26 11:45:31 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:36:03.584170+00:00", "site": "INF", "val": 1}
+2026-02-26 11:45:31 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:36:10.584997+00:00", "site": "1", "val": "INF"}
+2026-02-26 11:45:31 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:36:40.587351+00:00", "site": "1", "val": 6}
+2026-02-26 11:45:32 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:37:23.591529+00:00", "site": "4", "val": -1, "type": 3}
+2026-02-26 11:45:32 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T10:37:29.592313+00:00", "site": "5", "val": null}
+2026-02-26 11:45:32 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 4}
+2026-02-26 11:45:32 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:37:55.593543+00:00", "site": "INF", "val": 1}
+2026-02-26 11:45:32 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:38:23.595375+00:00", "site": "12", "val": 2}
+2026-02-26 11:45:33 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:38:25.595897+00:00", "site": "12", "val": 1}
+2026-02-26 11:45:33 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:38:28.596192+00:00", "val": -1, "type": 0}
+2026-02-26 11:45:33 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:39:04.598832+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:45:34 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T10:40:10.604593+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:45:34 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:40:53.606805+00:00", "site": "6", "val": 3}
+2026-02-26 11:45:34 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:41:18.608315+00:00", "site": "INF", "val": 2}
+2026-02-26 11:45:34 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:41:19.608577+00:00", "site": "3", "val": -1, "type": 3}
+2026-02-26 11:45:35 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T10:41:47.610886+00:00", "site": "3", "val": null}
+2026-02-26 11:45:35 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:42:14.613117+00:00", "site": "4"}
+2026-02-26 11:45:35 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:42:26.614454+00:00", "site": "12", "val": -1, "type": 0}
+2026-02-26 11:45:35 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T10:42:32.614707+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:45:36 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:43:33.619360+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:45:36 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:44:08.621658+00:00", "site": "3", "val": 6}
+2026-02-26 11:45:36 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T10:44:38.623477+00:00", "site": "5", "val": -1, "type": 3}
+2026-02-26 11:45:37 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:44:58.624961+00:00", "site": "3", "val": "ERR"}
+2026-02-26 11:45:37 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:45:04.625486+00:00", "site": "4"}
+2026-02-26 11:45:37 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:45:32.626934+00:00", "site": "3", "val": -3}
+2026-02-26 11:45:37 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:45:38.627469+00:00", "site": "3", "val": 6}
+2026-02-26 11:45:37 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 4}
+2026-02-26 11:45:37 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:45:46.628421+00:00", "site": "ERR", "val": 2}
+2026-02-26 11:45:37 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T10:45:57.629445+00:00", "site": "3", "val": null}
+2026-02-26 11:45:37 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:46:24.630958+00:00", "val": 2}
+2026-02-26 11:45:38 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:46:57.632807+00:00", "site": "None", "val": 2}
+2026-02-26 11:45:38 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:47:12.634535+00:00", "site": "3", "val": 9}
+2026-02-26 11:45:38 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:47:18.635283+00:00", "site": "5", "val": -1, "type": "ERR"}
+2026-02-26 11:45:38 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:47:42.636623+00:00", "site": "3"}
+2026-02-26 11:45:38 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:47:59.637872+00:00", "site": "8", "val": 1}
+2026-02-26 11:45:38 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:48:13.638839+00:00", "site": "6", "val": 1}
+2026-02-26 11:45:38 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:48:43.640409+00:00", "site": "9", "val": 0}
+2026-02-26 11:45:39 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 0}
+2026-02-26 11:45:39 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:49:01.642388+00:00", "site": "10", "val": 3}
+2026-02-26 11:45:39 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 0}
+2026-02-26 11:45:39 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:49:16.643671+00:00", "site": "12", "val": 2}
+2026-02-26 11:45:39 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:49:18.643931+00:00", "site": "9", "val": 1}
+2026-02-26 11:45:39 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:50:10.648356+00:00", "site": "3", "val": 5}
+2026-02-26 11:45:40 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 2}
+2026-02-26 11:45:41 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:51:54.656051+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:45:41 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:52:02.656586+00:00", "site": "None", "val": 0}
+2026-02-26 11:45:41 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:45:41 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T10:52:56.659728+00:00", "site": "4", "val": -1, "type": -1}
+2026-02-26 11:45:41 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T10:53:18.661384+00:00", "site": "1", "val": null}
+2026-02-26 11:45:41 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:53:33.662147+00:00", "site": "8", "val": 0}
+2026-02-26 11:45:42 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:54:02.663989+00:00", "site": "None", "val": 3}
+2026-02-26 11:45:42 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T10:54:52.666693+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:45:42 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:54:58.666966+00:00", "val": 4}
+2026-02-26 11:45:42 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:55:08.667514+00:00", "site": "3", "val": 6}
+2026-02-26 11:45:42 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T10:55:19.668280+00:00", "site": "0", "val": -1, "type": "INF"}
+2026-02-26 11:45:42 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:55:39.669579+00:00", "site": "4", "val": "ERR"}
+2026-02-26 11:45:43 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:56:13.672406+00:00", "val": 3}
+2026-02-26 11:45:43 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 1}
+2026-02-26 11:45:43 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:56:44.675136+00:00", "site": "6", "val": 2}
+2026-02-26 11:45:43 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:57:01.676415+00:00", "site": "6", "val": 4}
+2026-02-26 11:45:43 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:57:24.677929+00:00", "site": "5", "val": 9}
+2026-02-26 11:45:43 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 3}
+2026-02-26 11:45:44 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:57:38.678988+00:00", "site": "9", "val": 3}
+2026-02-26 11:45:44 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T10:57:54.680271+00:00", "site": "9", "val": 3}
+2026-02-26 11:45:44 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T10:58:05.681309+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:45:44 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:58:15.682061+00:00", "site": "4", "val": 8}
+2026-02-26 11:45:44 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T10:58:32.683341+00:00", "site": "0", "val": -1, "type": null}
+2026-02-26 11:45:44 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T10:58:50.684484+00:00", "val": 0}
+2026-02-26 11:45:44 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:58:51.684800+00:00", "site": "3", "val": 6}
+2026-02-26 11:45:45 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T10:59:27.687072+00:00", "site": "ERR", "val": 1}
+2026-02-26 11:45:45 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T10:59:32.687384+00:00", "site": "1", "val": 5}
+2026-02-26 11:45:45 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:00:06.689182+00:00", "site": "1", "val": -3}
+2026-02-26 11:45:45 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:00:10.689706+00:00", "site": "5", "val": -3}
+2026-02-26 11:45:45 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:00:16.689965+00:00", "site": "2", "val": 9}
+2026-02-26 11:45:45 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T11:00:31.691241+00:00", "site": "5", "val": -1, "type": -1}
+2026-02-26 11:45:45 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:00:33.691513+00:00", "site": "12", "val": 2}
+2026-02-26 11:45:45 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:01:21.695151+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:45:46 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:01:47.696721+00:00", "site": "4", "val": 8}
+2026-02-26 11:45:46 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:02:01.697813+00:00", "site": "1", "val": null}
+2026-02-26 11:45:46 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:02:07.698346+00:00", "site": "11", "val": 2}
+2026-02-26 11:45:46 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T11:02:49.702097+00:00", "site": "0", "val": -1, "type": -1}
+2026-02-26 11:45:46 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:03:00.702639+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:45:46 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:03:03.702903+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:45:47 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 3}
+2026-02-26 11:45:47 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 0}
+2026-02-26 11:45:47 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:04:22.708575+00:00", "site": "10", "val": 4}
+2026-02-26 11:45:47 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:45:48 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:05:37.714746+00:00", "site": "2", "val": -3}
+2026-02-26 11:45:48 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:06:26.717473+00:00", "site": "3", "val": -3}
+2026-02-26 11:45:48 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T11:06:28.717725+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:45:49 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:07:11.720617+00:00", "site": "5"}
+2026-02-26 11:45:49 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:07:16.720866+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:45:49 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:07:39.722350+00:00", "site": "3", "val": 7}
+2026-02-26 11:45:49 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:07:58.723354+00:00", "site": "1", "val": -1, "type": 3}
+2026-02-26 11:45:49 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:08:03.723617+00:00", "site": "6", "val": 1}
+2026-02-26 11:45:49 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T11:08:14.724651+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:45:50 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T11:08:40.726429+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:45:50 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:08:55.727364+00:00", "site": "0", "val": null}
+2026-02-26 11:45:50 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:09:02.727866+00:00", "site": "3", "val": null, "type": 0}
+2026-02-26 11:45:50 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T11:09:38.730720+00:00", "site": "2", "val": -1, "type": 4}
+2026-02-26 11:45:50 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:09:46.731199+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:45:50 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:10:12.732781+00:00", "site": "0", "val": 9}
+2026-02-26 11:45:51 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:11:41.739175+00:00", "site": "INF", "val": 3}
+2026-02-26 11:45:51 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:11:44.739736+00:00", "site": "2", "val": 6}
+2026-02-26 11:45:51 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:11:53.740270+00:00", "site": "4", "val": -3}
+2026-02-26 11:45:52 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:12:12.742633+00:00", "site": "1"}
+2026-02-26 11:45:52 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T11:12:25.743436+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:45:52 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:13:04.746400+00:00", "site": "2", "val": -1, "type": 3}
+2026-02-26 11:45:52 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:13:09.746930+00:00", "site": "2", "val": 8}
+2026-02-26 11:45:52 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T11:13:17.747460+00:00", "site": "2", "val": -1, "type": "INF"}
+2026-02-26 11:45:52 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:13:28.748527+00:00", "site": "10", "val": 2}
+2026-02-26 11:45:53 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:13:51.749842+00:00", "site": "4", "val": -1, "type": 3}
+2026-02-26 11:45:53 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:13:54.750123+00:00", "site": "6", "val": 4}
+2026-02-26 11:45:53 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:14:04.750855+00:00", "site": "12", "val": -1, "type": 1}
+2026-02-26 11:45:53 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T11:14:25.752372+00:00", "site": "1", "val": -1, "type": null}
+2026-02-26 11:45:53 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:14:47.754169+00:00", "val": 0}
+2026-02-26 11:45:53 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:14:53.754673+00:00", "site": "5", "val": -2}
+2026-02-26 11:45:53 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:15:24.756858+00:00", "val": 2}
+2026-02-26 11:45:54 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:16:02.759605+00:00", "site": "6", "val": 2}
+2026-02-26 11:45:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:16:05.759887+00:00", "site": "0", "val": 8}
+2026-02-26 11:45:54 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:16:37.762004+00:00", "site": "1"}
+2026-02-26 11:45:54 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:16:39.762279+00:00", "site": "7", "val": 2}
+2026-02-26 11:45:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:16:45.762791+00:00", "site": "5", "val": 5}
+2026-02-26 11:45:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:17:23.765440+00:00", "site": "5", "val": 6}
+2026-02-26 11:45:55 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:17:48.767520+00:00", "site": "3"}
+2026-02-26 11:45:55 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:18:20.769564+00:00", "site": "ERR", "val": 1}
+2026-02-26 11:45:55 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:18:44.771381+00:00", "site": "11", "val": 3}
+2026-02-26 11:45:55 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:18:50.771911+00:00", "site": "INF", "val": 4}
+2026-02-26 11:45:55 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 1}
+2026-02-26 11:45:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 0}
+2026-02-26 11:45:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:19:30.774797+00:00", "site": "3"}
+2026-02-26 11:45:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:20:01.777114+00:00", "site": "1", "val": 7}
+2026-02-26 11:45:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:45:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:20:45.780012+00:00", "site": "4", "val": 6}
+2026-02-26 11:45:56 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:20:48.780276+00:00", "site": "9", "val": 2}
+2026-02-26 11:45:57 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:22:03.785991+00:00", "site": "3", "val": 8}
+2026-02-26 11:45:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:22:08.786252+00:00", "site": "5"}
+2026-02-26 11:45:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:22:32.787862+00:00", "site": "5"}
+2026-02-26 11:45:58 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:23:06.790482+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:45:58 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:23:08.790741+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:45:58 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:23:12.791007+00:00", "site": "2", "val": -2}
+2026-02-26 11:45:58 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:23:38.792833+00:00", "site": "1", "val": 5}
+2026-02-26 11:45:58 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:24:08.794660+00:00", "site": "None", "val": 2}
+2026-02-26 11:45:59 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:24:53.798024+00:00", "site": "4", "val": 6}
+2026-02-26 11:45:59 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:25:10.799322+00:00", "val": 1}
+2026-02-26 11:45:59 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:25:33.800364+00:00", "site": "9", "val": 4}
+2026-02-26 11:45:59 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:25:38.801174+00:00", "site": "0", "val": null}
+2026-02-26 11:46:00 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:26:27.805113+00:00", "site": "10", "val": 1}
+2026-02-26 11:46:00 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:26:40.806184+00:00", "site": "3"}
+2026-02-26 11:46:00 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:27:08.808046+00:00", "site": "12", "val": 2}
+2026-02-26 11:46:00 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:27:45.810435+00:00", "site": "3", "val": -1, "type": 3}
+2026-02-26 11:46:01 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:28:01.811754+00:00", "site": "5", "val": null}
+2026-02-26 11:46:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T11:28:20.813073+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:46:01 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:28:36.814146+00:00", "site": "ERR", "val": 4}
+2026-02-26 11:46:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:28:56.815726+00:00", "site": "9", "val": 3}
+2026-02-26 11:46:01 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:29:08.816283+00:00", "site": "INF", "val": 0}
+2026-02-26 11:46:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:29:11.816565+00:00", "site": "5", "val": -1, "type": "ERR"}
+2026-02-26 11:46:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:29:15.817097+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:46:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:29:27.817898+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:46:01 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:29:33.818165+00:00", "val": 0}
+2026-02-26 11:46:01 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:29:36.818425+00:00", "site": "4", "val": "ERR"}
+2026-02-26 11:46:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T11:29:46.819224+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:46:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:29:53.819746+00:00", "site": "11", "val": 1}
+2026-02-26 11:46:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:29:58.820283+00:00", "site": "9", "val": 4}
+2026-02-26 11:46:01 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 0}
+2026-02-26 11:46:02 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:30:16.821885+00:00", "site": "4", "val": "INF"}
+2026-02-26 11:46:02 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:30:59.825815+00:00", "site": "1", "val": 5}
+2026-02-26 11:46:03 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T11:31:46.829521+00:00", "site": "2", "val": -1, "type": -1}
+2026-02-26 11:46:03 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:33:04.834248+00:00", "val": 0}
+2026-02-26 11:46:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:33:27.836101+00:00", "site": "0", "val": "ERR"}
+2026-02-26 11:46:04 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:33:37.836886+00:00", "site": "1"}
+2026-02-26 11:46:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:33:43.837144+00:00", "site": "3", "val": -3}
+2026-02-26 11:46:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:34:00.838742+00:00", "site": "5", "val": 9}
+2026-02-26 11:46:04 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:34:23.840319+00:00", "site": "4", "val": 7}
+2026-02-26 11:46:04 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:34:32.841093+00:00", "site": "7", "val": 1}
+2026-02-26 11:46:05 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:35:03.843987+00:00", "site": "7", "val": 1}
+2026-02-26 11:46:05 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:35:23.845073+00:00", "site": "ERR", "val": 1}
+2026-02-26 11:46:05 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:35:34.846144+00:00", "site": "0", "val": -2}
+2026-02-26 11:46:05 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:35:47.847433+00:00", "site": "1", "val": -1, "type": 3}
+2026-02-26 11:46:05 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:36:08.848722+00:00", "site": "INF", "val": 3}
+2026-02-26 11:46:05 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:36:39.851098+00:00", "site": "1", "val": 9}
+2026-02-26 11:46:05 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T11:36:47.851650+00:00", "site": "5", "val": -1, "type": 2}
+2026-02-26 11:46:06 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:37:24.855070+00:00", "site": "5", "val": -1, "type": 3}
+2026-02-26 11:46:06 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:37:53.856914+00:00", "site": "None", "val": 2}
+2026-02-26 11:46:06 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 1}
+2026-02-26 11:46:06 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T11:38:15.858264+00:00", "site": "1", "val": -1, "type": 2}
+2026-02-26 11:46:06 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:38:25.858806+00:00", "site": "6", "val": 2}
+2026-02-26 11:46:07 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T11:38:49.860679+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:46:07 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 3}
+2026-02-26 11:46:07 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:39:27.864324+00:00", "site": "2"}
+2026-02-26 11:46:07 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:39:55.865899+00:00", "site": "2", "val": null}
+2026-02-26 11:46:07 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:39:57.866165+00:00", "site": "0", "val": -2}
+2026-02-26 11:46:07 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:40:07.866707+00:00", "site": "4", "val": null}
+2026-02-26 11:46:07 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:40:08.866982+00:00", "site": "0", "val": -1, "type": "ERR"}
+2026-02-26 11:46:08 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:40:48.869863+00:00", "site": "5", "val": "ERR"}
+2026-02-26 11:46:08 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:41:12.871848+00:00", "site": "INF", "val": 0}
+2026-02-26 11:46:08 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T11:41:17.872334+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:46:08 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T11:41:36.873877+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:46:09 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:42:56.880690+00:00", "site": "6", "val": 2}
+2026-02-26 11:46:09 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:42:59.880997+00:00", "site": "2", "val": -1, "type": "ERR"}
+2026-02-26 11:46:09 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:43:32.883113+00:00", "site": "2", "val": null}
+2026-02-26 11:46:10 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T11:43:56.884963+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:46:11 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:46:05.896092+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:46:11 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:46:33.898033+00:00", "val": 0}
+2026-02-26 11:46:12 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:46:59.899590+00:00", "site": "1"}
+2026-02-26 11:46:12 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:47:36.902349+00:00", "site": "3", "val": "INF", "type": 0}
+2026-02-26 11:46:12 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:47:54.903597+00:00", "site": "1", "val": -3}
+2026-02-26 11:46:13 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:49:06.908053+00:00", "site": "None", "val": 0}
+2026-02-26 11:46:13 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:49:10.908344+00:00", "site": "0", "val": 7}
+2026-02-26 11:46:13 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:49:17.908856+00:00", "site": "8", "val": 2}
+2026-02-26 11:46:13 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T11:49:51.910992+00:00", "site": "3", "val": null}
+2026-02-26 11:46:13 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 3}
+2026-02-26 11:46:13 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T11:50:07.912578+00:00", "site": "1", "val": -1, "type": 3}
+2026-02-26 11:46:14 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:51:25.917324+00:00", "val": 0}
+2026-02-26 11:46:14 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:51:33.918131+00:00", "site": "10", "val": 1}
+2026-02-26 11:46:14 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:51:58.919751+00:00", "site": "1", "val": 6}
+2026-02-26 11:46:15 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:53:02.924518+00:00", "site": "7", "val": 4}
+2026-02-26 11:46:15 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 1}
+2026-02-26 11:46:15 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:53:37.927930+00:00", "site": "ERR", "val": 2}
+2026-02-26 11:46:16 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:53:57.929537+00:00", "site": "10", "val": 2}
+2026-02-26 11:46:16 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:53:59.929837+00:00", "site": "5"}
+2026-02-26 11:46:16 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:54:19.931170+00:00", "site": "7", "val": 4}
+2026-02-26 11:46:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T11:54:21.931465+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:46:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T11:54:38.932783+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:46:16 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T11:54:44.933327+00:00", "site": "4", "val": -1, "type": 4}
+2026-02-26 11:46:16 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:54:50.933863+00:00", "site": "0", "val": 7}
+2026-02-26 11:46:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 1}
+2026-02-26 11:46:17 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T11:56:09.940463+00:00", "site": "1"}
+2026-02-26 11:46:17 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:56:34.942239+00:00", "site": "10", "val": 4}
+2026-02-26 11:46:17 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:57:06.944063+00:00", "site": "4", "val": "ERR"}
+2026-02-26 11:46:18 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T11:57:43.946769+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:46:18 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T11:58:00.948190+00:00", "site": "ERR", "val": 1}
+2026-02-26 11:46:18 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 4}
+2026-02-26 11:46:18 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T11:58:06.948733+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:46:18 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T11:58:15.949514+00:00", "site": "2", "val": 7}
+2026-02-26 11:46:18 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T11:58:46.951658+00:00", "site": "6", "val": 0}
+2026-02-26 11:46:18 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T11:58:53.952495+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:46:19 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T12:00:09.958691+00:00", "site": "5", "val": null}
+2026-02-26 11:46:19 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 0}
+2026-02-26 11:46:20 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T12:01:23.963536+00:00", "site": "3", "val": -1, "type": null}
+2026-02-26 11:46:20 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:01:39.964763+00:00", "site": "5", "val": 8}
+2026-02-26 11:46:20 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:01:52.965496+00:00", "site": "7", "val": 1}
+2026-02-26 11:46:20 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:01:56.965788+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:46:21 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:02:31.968578+00:00", "site": "10", "val": 3}
+2026-02-26 11:46:21 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:02:56.970134+00:00", "site": "6", "val": 2}
+2026-02-26 11:46:21 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T12:03:01.970676+00:00", "site": "5", "val": -1, "type": null}
+2026-02-26 11:46:21 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T12:03:16.971682+00:00", "site": "2", "val": null}
+2026-02-26 11:46:21 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:03:27.972657+00:00", "site": "11", "val": 1}
+2026-02-26 11:46:21 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:03:41.973756+00:00", "site": "10", "val": 1}
+2026-02-26 11:46:22 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:04:09.975626+00:00", "val": 2}
+2026-02-26 11:46:22 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:04:21.977437+00:00", "site": "6", "val": 4}
+2026-02-26 11:46:22 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:04:30.977979+00:00", "site": "3", "val": -1, "type": 2}
+2026-02-26 11:46:22 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:04:49.979344+00:00", "site": "1", "val": -1, "type": "INF"}
+2026-02-26 11:46:22 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:05:26.982492+00:00", "site": "5", "val": 7}
+2026-02-26 11:46:23 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:06:01.985575+00:00", "site": "0", "val": -1, "type": 4}
+2026-02-26 11:46:23 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:06:07.985815+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:46:23 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:06:11.986343+00:00", "site": "11", "val": 3}
+2026-02-26 11:46:23 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:06:20.986887+00:00", "site": "0", "val": 8}
+2026-02-26 11:46:23 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T12:06:25.987130+00:00", "site": "0", "val": -1, "type": -1}
+2026-02-26 11:46:23 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 1}
+2026-02-26 11:46:23 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:06:29.987596+00:00", "val": 3}
+2026-02-26 11:46:23 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:06:59.989726+00:00", "site": "11", "val": 2}
+2026-02-26 11:46:23 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:07:09.990263+00:00", "site": "11", "val": 2}
+2026-02-26 11:46:23 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:07:14.990560+00:00", "site": "None", "val": 4}
+2026-02-26 11:46:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T12:07:46.992651+00:00", "site": "1", "val": -1, "type": 3}
+2026-02-26 11:46:24 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T12:08:10.994245+00:00", "site": "4", "val": null}
+2026-02-26 11:46:24 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:08:21.994757+00:00", "site": "6", "val": 4}
+2026-02-26 11:46:24 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:08:26.995329+00:00", "site": "3", "val": -1, "type": "INF"}
+2026-02-26 11:46:24 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:08:54.997301+00:00", "site": "ERR", "val": 0}
+2026-02-26 11:46:24 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 3}
+2026-02-26 11:46:24 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 1}
+2026-02-26 11:46:25 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:09:48.001042+00:00", "site": "ERR", "val": 2}
+2026-02-26 11:46:25 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:10:02.001751+00:00", "site": "12", "val": -1, "type": 0}
+2026-02-26 11:46:25 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:10:13.002553+00:00", "site": "10", "val": 2}
+2026-02-26 11:46:25 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:11:09.006792+00:00", "val": 0}
+2026-02-26 11:46:26 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:11:19.007587+00:00", "site": "0"}
+2026-02-26 11:46:26 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:11:20.007847+00:00", "site": "None", "val": 0}
+2026-02-26 11:46:26 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:12:48.013975+00:00", "site": "12", "val": 3}
+2026-02-26 11:46:26 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:12:54.014270+00:00", "site": "4", "val": 5}
+2026-02-26 11:46:27 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:13:33.016978+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:46:27 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:13:50.018317+00:00", "site": "2", "val": -1, "type": 2}
+2026-02-26 11:46:27 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:14:04.019985+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:46:28 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T12:14:57.023829+00:00", "site": "1", "val": null}
+2026-02-26 11:46:28 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:15:08.024881+00:00", "site": "8", "val": 1}
+2026-02-26 11:46:28 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:46:28 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:16:10.029029+00:00", "site": "ERR", "val": 0}
+2026-02-26 11:46:28 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:16:21.029764+00:00", "site": "0", "val": -1, "type": 4}
+2026-02-26 11:46:29 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:16:54.032134+00:00", "site": "10", "val": 4}
+2026-02-26 11:46:29 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:17:35.035357+00:00", "site": "3", "val": 5}
+2026-02-26 11:46:29 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:17:48.036148+00:00", "site": "None", "val": 1}
+2026-02-26 11:46:29 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:17:54.036441+00:00", "site": "4", "val": -1, "type": 4}
+2026-02-26 11:46:29 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T12:17:58.036706+00:00", "site": "5", "val": -1, "type": 3}
+2026-02-26 11:46:29 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:18:08.037515+00:00", "site": "5", "val": 5}
+2026-02-26 11:46:29 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:18:28.038604+00:00", "site": "2", "val": -1, "type": 2}
+2026-02-26 11:46:30 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:18:39.039141+00:00", "site": "4", "val": "ERR"}
+2026-02-26 11:46:30 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:18:49.039671+00:00", "site": "1", "val": -3}
+2026-02-26 11:46:30 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:19:04.040995+00:00", "site": "5", "val": "ERR"}
+2026-02-26 11:46:30 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:19:06.041252+00:00", "val": 0}
+2026-02-26 11:46:30 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:20:05.046512+00:00", "site": "INF", "val": 2}
+2026-02-26 11:46:31 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:20:11.047615+00:00", "site": "2", "val": "INF"}
+2026-02-26 11:46:31 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:20:31.049486+00:00", "site": "5"}
+2026-02-26 11:46:31 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:20:48.050480+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:46:31 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:46:32 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:22:14.055911+00:00", "site": "1", "val": -1, "type": "INF"}
+2026-02-26 11:46:32 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:23:00.059832+00:00", "val": 2}
+2026-02-26 11:46:32 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T12:23:05.060099+00:00", "site": "5", "val": -1, "type": 3}
+2026-02-26 11:46:32 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:23:15.060637+00:00", "val": 3}
+2026-02-26 11:46:32 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:23:25.061172+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:46:32 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:23:28.061694+00:00", "site": "2", "val": 7}
+2026-02-26 11:46:32 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:23:33.061958+00:00", "site": "3"}
+2026-02-26 11:46:33 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:24:31.066443+00:00", "site": "8", "val": 2}
+2026-02-26 11:46:33 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:24:55.068087+00:00", "val": 4}
+2026-02-26 11:46:33 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:24:57.068352+00:00", "site": "2", "val": -1, "type": "ERR"}
+2026-02-26 11:46:34 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:26:46.075647+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:46:35 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:27:06.076943+00:00", "site": "1"}
+2026-02-26 11:46:35 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:27:09.077210+00:00", "val": 0}
+2026-02-26 11:46:35 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:27:33.078830+00:00", "site": "11", "val": 4}
+2026-02-26 11:46:35 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:27:56.080651+00:00", "site": "5"}
+2026-02-26 11:46:35 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 2}
+2026-02-26 11:46:35 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:28:10.081764+00:00", "site": "3"}
+2026-02-26 11:46:35 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:28:19.082304+00:00", "site": "4", "val": 5}
+2026-02-26 11:46:35 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T12:28:28.082836+00:00", "site": "0", "val": -1, "type": 3}
+2026-02-26 11:46:36 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:29:42.088127+00:00", "site": "11", "val": 2}
+2026-02-26 11:46:36 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:29:53.089214+00:00", "site": "10", "val": 0}
+2026-02-26 11:46:36 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 0}
+2026-02-26 11:46:36 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:30:10.090573+00:00", "site": "5", "val": 7}
+2026-02-26 11:46:36 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:30:20.091370+00:00", "site": "9", "val": 4}
+2026-02-26 11:46:36 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:30:38.092957+00:00", "site": "4", "val": 6}
+2026-02-26 11:46:37 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:30:51.094410+00:00", "site": "2", "val": 9}
+2026-02-26 11:46:37 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "0", "val": 1}
+2026-02-26 11:46:37 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:31:29.096724+00:00", "site": "11", "val": 0}
+2026-02-26 11:46:37 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:31:51.098478+00:00", "site": "5", "val": 7}
+2026-02-26 11:46:37 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "2", "val": 2}
+2026-02-26 11:46:38 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:32:34.101835+00:00", "site": "6", "val": 4}
+2026-02-26 11:46:38 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:32:46.102600+00:00", "site": "6", "val": 0}
+2026-02-26 11:46:38 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:33:13.104470+00:00", "site": "1", "val": 5}
+2026-02-26 11:46:38 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:33:43.106550+00:00", "site": "5"}
+2026-02-26 11:46:39 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:34:18.109211+00:00", "site": "0", "val": -1, "type": 2}
+2026-02-26 11:46:39 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:34:32.110281+00:00", "site": "1", "val": 9}
+2026-02-26 11:46:39 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:34:54.112081+00:00", "site": "3", "val": -1, "type": 2}
+2026-02-26 11:46:39 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:35:33.114512+00:00", "val": 4}
+2026-02-26 11:46:39 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:35:55.116156+00:00", "site": "3", "val": -3}
+2026-02-26 11:46:40 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:36:11.117988+00:00", "site": "1", "val": 8}
+2026-02-26 11:46:40 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:36:24.119038+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:46:40 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:36:31.119575+00:00", "site": "0", "type": 0}
+2026-02-26 11:46:40 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:36:40.120105+00:00", "site": "7", "val": 4}
+2026-02-26 11:46:40 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:36:58.121470+00:00", "site": "ERR", "val": 1}
+2026-02-26 11:46:40 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:37:00.121761+00:00", "site": "3", "val": "ERR"}
+2026-02-26 11:46:40 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T12:37:08.122582+00:00", "site": "0", "val": -1, "type": 3}
+2026-02-26 11:46:40 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:37:31.124984+00:00", "site": "11", "val": 2}
+2026-02-26 11:46:41 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:38:15.128427+00:00", "val": 3}
+2026-02-26 11:46:41 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:38:21.128949+00:00", "val": 1}
+2026-02-26 11:46:41 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:38:32.129981+00:00", "site": "4", "val": 6}
+2026-02-26 11:46:41 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:38:44.130501+00:00", "site": "4", "val": -2}
+2026-02-26 11:46:41 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:38:56.131321+00:00", "site": "0", "val": -1, "type": 4}
+2026-02-26 11:46:41 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:39:09.132130+00:00", "site": "10", "val": 2}
+2026-02-26 11:46:41 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:39:35.133660+00:00", "site": "0", "val": -1, "type": 4}
+2026-02-26 11:46:42 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:39:43.134720+00:00", "site": "4", "val": 5}
+2026-02-26 11:46:42 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 2}
+2026-02-26 11:46:42 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:40:07.136600+00:00", "site": "5"}
+2026-02-26 11:46:42 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:40:33.138413+00:00", "val": 0}
+2026-02-26 11:46:43 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:41:27.142432+00:00", "site": "0", "val": -1, "type": 2}
+2026-02-26 11:46:43 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:41:38.142961+00:00", "site": "3", "val": -2}
+2026-02-26 11:46:43 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:41:57.144480+00:00", "val": 3}
+2026-02-26 11:46:43 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:42:42.147334+00:00", "site": "1", "val": 8}
+2026-02-26 11:46:43 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:42:51.147883+00:00", "site": "6", "val": 0}
+2026-02-26 11:46:43 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:43:03.148716+00:00", "site": "6", "val": 0}
+2026-02-26 11:46:44 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 0}
+2026-02-26 11:46:44 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:43:51.152261+00:00", "site": "12", "val": 1}
+2026-02-26 11:46:44 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:44:00.153074+00:00", "site": "5", "val": -1, "type": "ERR"}
+2026-02-26 11:46:44 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:44:06.153603+00:00", "site": "None", "val": 3}
+2026-02-26 11:46:44 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:44:11.153898+00:00", "site": "12", "val": 1}
+2026-02-26 11:46:44 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:44:17.154191+00:00", "site": "10", "val": 4}
+2026-02-26 11:46:44 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:44:22.154743+00:00", "site": "2", "val": -1, "type": "INF"}
+2026-02-26 11:46:44 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:44:29.155546+00:00", "site": "4", "val": 6}
+2026-02-26 11:46:44 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:44:40.156344+00:00", "site": "2", "val": -3}
+2026-02-26 11:46:44 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:44:48.156883+00:00", "site": "0", "val": -2}
+2026-02-26 11:46:44 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:45:22.159281+00:00", "site": "INF", "val": 0}
+2026-02-26 11:46:45 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:45:32.160077+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:46:45 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T12:46:21.164067+00:00", "site": "0", "val": -1, "type": null}
+2026-02-26 11:46:45 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:46:26.164575+00:00", "site": "11", "val": 1}
+2026-02-26 11:46:46 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:47:06.167376+00:00", "site": "9", "val": 1}
+2026-02-26 11:46:47 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T12:48:40.174485+00:00", "site": "4", "val": -1, "type": "INF"}
+2026-02-26 11:46:47 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:48:42.174749+00:00", "site": "8", "val": 1}
+2026-02-26 11:46:47 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:49:19.177124+00:00", "site": "2", "val": -1, "type": "ERR"}
+2026-02-26 11:46:47 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:49:22.177374+00:00", "site": "11", "val": 1}
+2026-02-26 11:46:47 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:49:32.178169+00:00", "site": "4", "val": -1, "type": 2}
+2026-02-26 11:46:47 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:49:45.178942+00:00", "site": "4", "val": 5}
+2026-02-26 11:46:47 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:49:47.179212+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:46:47 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:49:59.180105+00:00", "site": "3", "val": 6}
+2026-02-26 11:46:47 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:50:13.181696+00:00", "site": "4", "val": -1, "type": "ERR"}
+2026-02-26 11:46:47 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:50:17.182160+00:00", "site": "3", "val": -1, "type": 4}
+2026-02-26 11:46:48 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:50:37.183650+00:00", "site": "ERR", "val": 4}
+2026-02-26 11:46:48 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T12:51:01.185500+00:00", "site": "3", "val": -1, "type": -1}
+2026-02-26 11:46:48 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:51:44.188459+00:00", "site": "11", "val": 2}
+2026-02-26 11:46:49 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:52:42.192595+00:00", "site": "1", "val": 6}
+2026-02-26 11:46:49 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:52:52.193313+00:00", "site": "6", "val": 2}
+2026-02-26 11:46:49 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 4}
+2026-02-26 11:46:49 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:53:32.195855+00:00", "site": "0"}
+2026-02-26 11:46:49 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:53:35.196119+00:00", "site": "4", "val": 6}
+2026-02-26 11:46:50 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T12:53:43.196654+00:00", "site": "1", "val": -1, "type": 4}
+2026-02-26 11:46:50 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:54:15.198709+00:00", "site": "11", "val": 3}
+2026-02-26 11:46:50 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 3}
+2026-02-26 11:46:50 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:54:55.201131+00:00", "site": "11", "val": 2}
+2026-02-26 11:46:50 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:54:58.201418+00:00", "val": 4}
+2026-02-26 11:46:50 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:55:22.202739+00:00", "site": "0", "val": -1, "type": 2}
+2026-02-26 11:46:50 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T12:55:23.203014+00:00", "site": "2", "val": null}
+2026-02-26 11:46:50 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:55:38.204585+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:46:51 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T12:55:46.205076+00:00", "site": "8", "val": 2}
+2026-02-26 11:46:51 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:56:05.206181+00:00", "site": "4", "val": "INF"}
+2026-02-26 11:46:51 - ERROR - Validation failed: site must be an integer. Key: None Raw message: {"at": "2026-02-25T12:57:03.209956+00:00", "site": "ERR", "val": 2}
+2026-02-26 11:46:51 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:57:09.210579+00:00", "site": "5"}
+2026-02-26 11:46:51 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:57:16.211584+00:00", "site": "5", "val": 5}
+2026-02-26 11:46:52 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T12:57:46.214159+00:00", "site": "1", "val": -1, "type": "ERR"}
+2026-02-26 11:46:52 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:57:52.214441+00:00", "site": "3", "val": 9}
+2026-02-26 11:46:52 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:57:57.214710+00:00", "site": "1"}
+2026-02-26 11:46:52 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:58:13.216011+00:00", "site": "5", "val": -3}
+2026-02-26 11:46:52 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:58:31.217580+00:00", "site": "5"}
+2026-02-26 11:46:52 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T12:58:41.218359+00:00", "val": 1}
+2026-02-26 11:46:52 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T12:59:06.220296+00:00", "site": "1", "val": -1, "type": 2}
+2026-02-26 11:46:53 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T12:59:48.223364+00:00", "site": "3", "val": 7}
+2026-02-26 11:46:53 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=-1. Key: None Raw message: {"at": "2026-02-25T13:00:02.224332+00:00", "site": "5", "val": -1, "type": -1}
+2026-02-26 11:46:53 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T13:00:16.225142+00:00", "site": "3", "val": -1, "type": "INF"}
+2026-02-26 11:46:53 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:00:22.225412+00:00", "site": "8", "val": 3}
+2026-02-26 11:46:53 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T13:00:34.226232+00:00", "site": "4", "val": -1, "type": 3}
+2026-02-26 11:46:53 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T13:00:46.226751+00:00", "site": "2", "val": -1, "type": 3}
+2026-02-26 11:46:54 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T13:01:25.229281+00:00", "site": "4", "val": -1, "type": 3}
+2026-02-26 11:46:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:01:34.229783+00:00", "site": "1", "val": -3}
+2026-02-26 11:46:54 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T13:01:48.230862+00:00", "site": "5", "val": -1, "type": "INF"}
+2026-02-26 11:46:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:02:10.233166+00:00", "site": "0", "val": "ERR"}
+2026-02-26 11:46:54 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=INF. Key: None Raw message: {"at": "2026-02-25T13:02:18.233722+00:00", "site": "1", "val": -1, "type": "INF"}
+2026-02-26 11:46:54 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "3", "val": 2}
+2026-02-26 11:46:54 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:03:07.236888+00:00", "site": "4", "val": "ERR"}
+2026-02-26 11:46:55 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T13:03:29.238637+00:00", "site": "0", "val": -1, "type": 4}
+2026-02-26 11:46:55 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T13:03:36.239147+00:00", "site": "3", "val": -1, "type": "ERR"}
+2026-02-26 11:46:55 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:03:58.240693+00:00", "site": "3", "val": 9}
+2026-02-26 11:46:55 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:03:59.240941+00:00", "site": "1"}
+2026-02-26 11:46:55 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:04:03.241702+00:00", "site": "1"}
+2026-02-26 11:46:55 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:04:08.242180+00:00", "site": "1", "val": -2}
+2026-02-26 11:46:55 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:04:18.243207+00:00", "site": "5", "val": 8}
+2026-02-26 11:46:55 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T13:04:27.243739+00:00", "site": "1", "val": -1, "type": 2}
+2026-02-26 11:46:55 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:04:31.244003+00:00", "site": "4", "val": "ERR"}
+2026-02-26 11:46:55 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:04:35.244252+00:00", "val": 1}
+2026-02-26 11:46:56 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T13:05:23.247576+00:00", "site": "2", "val": -1, "type": "ERR"}
+2026-02-26 11:46:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:05:37.248638+00:00", "site": "5", "val": 6}
+2026-02-26 11:46:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:05:50.249446+00:00", "site": "3", "val": 6}
+2026-02-26 11:46:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 4}
+2026-02-26 11:46:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:06:29.252427+00:00", "site": "2", "val": -2}
+2026-02-26 11:46:56 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:06:38.252980+00:00", "site": "1"}
+2026-02-26 11:46:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:06:56.254086+00:00", "site": "0", "val": "INF"}
+2026-02-26 11:46:56 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:07:02.254351+00:00", "site": "2", "val": "ERR"}
+2026-02-26 11:46:57 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:07:18.255678+00:00", "site": "3", "val": 6}
+2026-02-26 11:46:57 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:07:50.258157+00:00", "site": "11", "val": 1}
+2026-02-26 11:46:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:07:54.258452+00:00", "val": 2}
+2026-02-26 11:46:57 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:07:59.258969+00:00", "site": "11", "val": 0}
+2026-02-26 11:46:57 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:08:01.259300+00:00", "val": 2}
+2026-02-26 11:46:57 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=2. Key: None Raw message: {"at": "2026-02-25T13:08:06.259572+00:00", "site": "5", "val": -1, "type": 2}
+2026-02-26 11:46:57 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:08:07.259838+00:00", "site": "12", "val": 3}
+2026-02-26 11:46:57 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:08:19.261119+00:00", "site": "5", "val": -3}
+2026-02-26 11:46:57 - ERROR - Validation failed: val must be an integer. Key: None Raw message: {"at": "2026-02-25T13:08:45.262995+00:00", "site": "2", "val": 8}
+2026-02-26 11:46:58 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:09:06.265031+00:00", "site": "12", "val": 3}
+2026-02-26 11:46:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 1}
+2026-02-26 11:46:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "1", "val": 4}
+2026-02-26 11:46:58 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "5", "val": 2}
+2026-02-26 11:46:58 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=3. Key: None Raw message: {"at": "2026-02-25T13:10:07.268791+00:00", "site": "2", "val": -1, "type": 3}
+2026-02-26 11:46:58 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:10:39.270378+00:00", "site": "10", "val": 0}
+2026-02-26 11:46:58 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:10:48.271751+00:00", "site": "7", "val": 3}
+2026-02-26 11:46:59 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=None. Key: None Raw message: {"at": "2026-02-25T13:11:02.273092+00:00", "site": "4", "val": -1, "type": null}
+2026-02-26 11:46:59 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:11:04.273370+00:00", "val": 2}
+2026-02-26 11:47:00 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:12:42.281240+00:00", "site": "8", "val": 1}
+2026-02-26 11:47:00 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=4. Key: None Raw message: {"at": "2026-02-25T13:13:25.284078+00:00", "site": "5", "val": -1, "type": 4}
+2026-02-26 11:47:01 - ERROR - Validation failed: Invalid combination of val and type: val=-1, type=ERR. Key: None Raw message: {"at": "2026-02-25T13:14:42.289183+00:00", "site": "5", "val": -1, "type": "ERR"}
+2026-02-26 11:47:01 - ERROR - Validation failed: val cannot be empty. Key: None Raw message: {"at": "2026-02-25T13:14:52.289975+00:00", "site": "5", "val": null}
+2026-02-26 11:47:01 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"at": "2026-02-25T13:14:59.290790+00:00", "val": 1}
+2026-02-26 11:47:01 - ERROR - Validation failed: Missing required fields: at, site, val. Key: None Raw message: {"site": "4", "val": 1}
+2026-02-26 11:47:01 - ERROR - Validation failed: site must be in the range [0, 5]. Key: None Raw message: {"at": "2026-02-25T13:15:18.292399+00:00", "site": "6", "val": 2}
+2026-02-26 11:47:01 - INFO - Consumer interrupted by user
+2026-02-26 11:47:01 - INFO - === Consumer shutting down
