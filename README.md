@@ -184,11 +184,11 @@ The museum has no plans to change number of buttons on kiosk but I desgined it s
     * terraform.tfvars     # Variables (not committed)
 ```
 ### Error Handling
-Validation errors: Skip message, log details, continue processing
-Database errors: Stop pipeline (fail-fast to prevent data loss)
-Logs:
-consumer_success.log - Successful processing
-consumer_error.log - Errors with full message data
+* Validation errors: Skip message, log details, continue processing
+* Database errors: Stop pipeline (fail-fast to prevent data loss)
+* Logs:
+  * consumer_success.log - Successful processing
+  * consumer_error.log - Errors with full message data
 
 #### Troubleshooting**
 **Module not found:**
