@@ -159,11 +159,12 @@ Message Format:
 }
 ```
 Rules:
-  at: ISO 8601 timestamp ≤ now (UTC)
-  site: [0-5]
-  val: [-1, 4]
-  type: Only when val=-1 (0=assistance, 1=emergency)
-  Button Mapping: | val | type | Meaning | |-----|------|------------| | -1 | 0 | Assistance | | -1 | 1 | Emergency | | 0-4 | None | Rating |
+  * at: ISO 8601 timestamp ≤ now (UTC)
+  * site: [0-5]
+  * val: [-1, 4]
+  * type: Only when val=-1 (0=assistance, 1=emergency)
+  * Button Mapping: <img width="808" height="401" alt="image" src="https://github.com/user-attachments/assets/743fd9c4-9640-4fd0-976f-4e7345dd95cb" />
+The museum has no plans to change number of buttons on kiosk but I desgined it so that they have the option to do so easily in the future.
 
 ### Project Structure
 museum-visitor-etl-pipeline/
