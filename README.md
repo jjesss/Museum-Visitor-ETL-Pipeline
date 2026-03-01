@@ -167,8 +167,9 @@ Rules:
 The museum has no plans to change number of buttons on kiosk but I desgined it so that they have the option to do so easily in the future.
 
 ### Project Structure
-museum-visitor-etl-pipeline/
+
 ```
+* museum-visitor-etl-pipeline/
 * etl.py                   # Main ETL script
 * validations.py           # Validation functions
 * database.py              # Database operations
